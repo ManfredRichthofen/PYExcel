@@ -1,0 +1,4 @@
+name: PyExcel
+dependencies:
+  - numpy
+  - pandas
